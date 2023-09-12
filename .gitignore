@@ -1,0 +1,6 @@
+# Zig build and cache files
+zig-*
+
+# Local install script
+install.sh
+Makefile
